@@ -103,5 +103,5 @@ Repository ini bersifat edukasi dan portofolio profesional.
 ## 📞 Kontak
 **Chris Pasaribu**  
 📧 Email: [christopasaribu90@gmail.com]
-
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Professional-blue)
 
