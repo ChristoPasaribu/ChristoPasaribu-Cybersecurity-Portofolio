@@ -102,6 +102,6 @@ Repository ini bersifat edukasi dan portofolio profesional.
 
 ## 📞 Kontak
 **Chris Pasaribu**  
-📧 Email: *isi email kamu*  
-🌐 GitHub: https://github.com/username  
+📧 Email: [christopasaribu90@gmail.com]
+
 
